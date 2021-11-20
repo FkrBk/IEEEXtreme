@@ -1,1 +1,1 @@
-puts"mNrsAgcUTPvnIo".index((gets*9)[45])+1
+puts' mNrsAgcUTPvnIo'.index((gets*9)[45])
